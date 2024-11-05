@@ -49,7 +49,6 @@ Developed by:Mahgauri.P Register Number:24901190
 ![image](https://github.com/user-attachments/assets/99aedf03-1dfa-491d-8b67-6401eaf44cc8)
 
 
-
 **Output:**
 
 **RTL**
