@@ -46,7 +46,8 @@ Developed by:Mahgauri.P Register Number:24901190
 
 
 **RTL realization**
-https://github.com/user-attachments/assets/2c91d2dc-b383-4899-ac8b-dc9914f3defe
+![image](https://github.com/user-attachments/assets/99aedf03-1dfa-491d-8b67-6401eaf44cc8)
+
 
 
 **Output:**
@@ -54,7 +55,7 @@ https://github.com/user-attachments/assets/2c91d2dc-b383-4899-ac8b-dc9914f3defe
 **RTL**
 
 **Timing Diagram**
-https://github.com/user-attachments/assets/984406e3-3d63-4e3f-b27e-02c6a9171c35
+![image](https://github.com/user-attachments/assets/9d8d9901-7470-4e31-b3da-7870eefc90a1)
 
 
 **Result:**
